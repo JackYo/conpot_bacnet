@@ -1,0 +1,1 @@
+https://github.com/rep/hpfeeds/archive/master.zip#egg=hpfeeds
