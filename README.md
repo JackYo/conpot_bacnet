@@ -1,6 +1,6 @@
 #### My operating system is Ubuntu 16.04.3 LTS on VMware, Conpot version 0.5.1
 
-##### clone the project from original conpot
+##### clone the repository from original conpot
 `$ git clone https://github.com/mushorg/conpot.git`
  
 ##### step into the folder
@@ -31,10 +31,11 @@ sudo cp -r /usr/local/lib/python2.7/dist-packages/Conpot-0.5.1-py2.7.egg/conpot 
 /usr/local/lib/python2.7/dist-packages/Conpot-0.5.1-py2.7.egg/conpot.bak
 sudo cp -rf ~/conpot_bacnet/conpot/. /usr/local/lib/python2.7/dist-packages/Conpot-0.5.1-py2.7.egg/conpot/
 ```
-#### Now, you should have accomplished all setup. Try the following command to run conpot
+#### Now, you should have accomplished all setup. Try the following command to run conpot.
 `$ sudo conpot -f --template default`
 
 #### BACnet service will listen on port 47808
 If you see console output "Bacnet server started on: ('0.0.0.0', 47808)", everything should be right.
 
-#### I recommend you to use [YABE](https://sourceforge.net/projects/yetanotherbacnetexplorer/) to test the bacnet service.
+#### I recommend using [YABE](https://sourceforge.net/projects/yetanotherbacnetexplorer/) to test BACnet service.
+You can refer to the screenshots in YabeUsage folder in this repository.
