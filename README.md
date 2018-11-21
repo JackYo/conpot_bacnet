@@ -2,11 +2,9 @@
 
 ##### clone the project from original conpot
 `$ git clone https://github.com/mushorg/conpot.git`
-
-
+ 
 ##### step into the folder
 `cd conpot`
-
 
 ##### check the revision tag
 `$ git tag -l`
@@ -26,7 +24,6 @@
 
 
 #### copy our conpot folder and replace the installed conpot folder, you can do something like this:
-
 ```bash
 cd ~
 sudo git clone https://github.com/JackYo/conpot_bacnet.git
