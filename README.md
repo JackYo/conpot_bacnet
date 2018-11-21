@@ -1,4 +1,4 @@
-#### My operation system is Ubuntu 16.04.3 LTS on VMware, Conpot version 0.5.1
+#### My operating system is Ubuntu 16.04.3 LTS on VMware, Conpot version 0.5.1
 
 ##### clone the project from original conpot
 `$ git clone https://github.com/mushorg/conpot.git`
