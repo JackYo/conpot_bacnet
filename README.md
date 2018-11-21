@@ -29,5 +29,5 @@ cd ~
 sudo git clone https://github.com/JackYo/conpot_bacnet.git
 sudo cp -r /usr/local/lib/python2.7/dist-packages/Conpot-0.5.1-py2.7.egg/conpot \
 /usr/local/lib/python2.7/dist-packages/Conpot-0.5.1-py2.7.egg/conpot.bak
-sudo cp -rf conpot_bacnet/conpot/. /usr/local/lib/python2.7/dist-packages/Conpot-0.5.1-py2.7.egg/conpot/
+sudo cp -rf ~/conpot_bacnet/conpot/. /usr/local/lib/python2.7/dist-packages/Conpot-0.5.1-py2.7.egg/conpot/
 ```
