@@ -35,6 +35,6 @@ sudo cp -rf ~/conpot_bacnet/conpot/. /usr/local/lib/python2.7/dist-packages/Conp
 `$ sudo conpot -f --template default`
 
 #### BACnet service will listen on port 47808
-
-
 If you see console output "Bacnet server started on: ('0.0.0.0', 47808)", everything should be right.
+
+#### I recommend you to use [YABE](https://sourceforge.net/projects/yetanotherbacnetexplorer/) to test the bacnet service.
